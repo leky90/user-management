@@ -1,0 +1,19 @@
+{
+    "name": "leky90/users",
+    "description": "User management package",
+    "type": "module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ky Le",
+            "email": "ldky90@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Leky90\\Users\\": "src/"
+        }
+    },
+    "require": {}
+}
